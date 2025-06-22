@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/main/public/YOUR_BANNER_NAME.png)
+![banner](https://raw.githubusercontent.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/main/public/banner.png)
 
 # SHEETU AI Assistant - Multi-provider AI Chat Interface
 A sophisticated AI-powered assistant built with Next.js and powered by multiple LLM providers including Groq, Gemini, OpenAI, and Claude. SHEETU adapts to different modes of interaction, providing specialized assistance for productivity, wellness, learning, creative tasks, and even acts as your GenZ bestie!
