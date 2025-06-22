@@ -1,14 +1,9 @@
-![banner](https://raw.githubusercontent.com/RS-labhub/SHEETU/master/public/banner.png)
+![banner](https://raw.githubusercontent.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/main/public/YOUR_BANNER_NAME.png)
 
-# SHEETU - Adaptive Reasoning & Intelligence Assistant
+# SHEETU AI Assistant - Multi-provider AI Chat Interface
 A sophisticated AI-powered assistant built with Next.js and powered by multiple LLM providers including Groq, Gemini, OpenAI, and Claude. SHEETU adapts to different modes of interaction, providing specialized assistance for productivity, wellness, learning, creative tasks, and even acts as your GenZ bestie!
 
 ## 🎬 Project Showcase
-
-| Preview             | Description        |
-|---------------------|--------------------|
-| [![YouTube Demo](https://raw.githubusercontent.com/RS-labhub/SHEETU/master/public/youtube.jpg)](https://www.youtube.com/watch?v=2FW6IJeOkzI) | 🎬 **YouTube Demo**<br>Click the image to watch the full demo. |
-| ![Blog Post](https://raw.githubusercontent.com/RS-labhub/SHEETU/master/public/cover-image.png) | 📝 **Blog Post**<br>Read the blog for in-depth explanation. |
 
 
 
@@ -117,8 +112,8 @@ if (query.includes("creative", "brainstorm", "idea", "write", "design", "story")
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RS-labhub/SHEETU.git
-   cd SHEETU
+   git clone https://github.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface.git
+   cd SHEETU-AI-Assistant---Multi-provider-AI-chat-interface
    ```
 
 2. **Install dependencies**
@@ -130,7 +125,7 @@ if (query.includes("creative", "brainstorm", "idea", "write", "design", "story")
 
 3. **Set up environment variables (check `.env.example`)**
    ```bash
-   touch .env
+   touch .env.local
    ```
 
    Add your API keys (optional for full functionality):
@@ -203,7 +198,7 @@ Each mode provides quick action buttons with pre-defined prompts:
 ## 🏗️ Project Structure
 
 ```
-SHEETU/
+SHEETU-AI-Assistant/
 ├── app/
 │   ├── api/chat/route.ts          # Multi-provider chat API endpoint
 │   ├── globals.css                # Global styles and theme variables
@@ -291,6 +286,10 @@ SHEETU intelligently chooses the best model for your query:
 - **Accessibility**: WCAG compliant with keyboard navigation
 - **Performance**: Optimized loading and smooth animations
 
+## 🚀 Live Demo
+
+Experience SHEETU AI Assistant live at: **https://sheetu-ai-assistant.vercel.app** (Coming Soon!)
+
 ## 🤝 Contributing
 
 We welcome contributions! Here's how to get started:
@@ -327,11 +326,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Community
 
-- **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/RS-labhub/SHEETU/issues)
-- **Discussions**: Join conversations on [GitHub Discussions](https://github.com/RS-labhub/SHEETU/discussions)
-- **Email**: Contact the maintainer at `rs4101976@gmail.com`
-- **X/Twitter**: Follow updates [@rrs00179](https://x.com/rrs00179)
-
+- **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/issues)
+- **Discussions**: Join conversations on [GitHub Discussions](https://github.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/discussions)
+- **GitHub**: Follow development updates [@PriyanshuSharma18](https://github.com/PriyanshuSharma18)
 
 ## 🔮 Roadmap
 
@@ -340,23 +337,37 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Custom System Prompts**: User-defined AI personalities
 - [ ] **Collaboration**: Share conversations and collaborate in real-time
 - [ ] **Voice Cloning**: Personalized AI voice synthesis
+- [ ] **Mobile App**: Native iOS and Android applications
+- [ ] **Plugin System**: Extensible functionality with custom plugins
 
 ### **Performance Improvements**
 - [ ] **Caching**: Intelligent response caching for faster interactions
 - [ ] **Compression**: Optimized message storage and transmission
+- [ ] **Edge Computing**: Global deployment for reduced latency
 
 ---
 
-## Meet the Author
-
-<img  src="https://raw.githubusercontent.com/RS-labhub/SHEETU/master/public/Author.jpg" alt="Author">
+## Meet the Developer
 
 <div align="center">
 
-**Built with ❤️ by [RS-labhub](https://github.com/RS-labhub)**
+**Built with ❤️ by [Priyanshu Sharma](https://github.com/PriyanshuSharma18)**
 
-*SHEETU - Your Adaptive AI Companion for Every Need*
+*SHEETU AI Assistant - Your Adaptive AI Companion for Every Need*
 
-[⭐ Star this repo](https://github.com/RS-labhub/SHEETU) • [🐛 Report Bug • 💡 Request Feature](https://github.com/RS-labhub/SHEETU/issues)
+[⭐ Star this repo](https://github.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface) • [🐛 Report Bug](https://github.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/issues) • [💡 Request Feature](https://github.com/PriyanshuSharma18/SHEETU-AI-Assistant---Multi-provider-AI-chat-interface/issues)
+
+---
+
+### 🌟 Show Your Support
+
+If you find SHEETU AI Assistant helpful, please consider:
+- ⭐ Starring the repository
+- 🍴 Forking for your own projects
+- 🐛 Reporting bugs and issues
+- 💡 Suggesting new features
+- 📢 Sharing with friends and colleagues
+
+**Thank you for your support! 🚀**
 
 </div>
